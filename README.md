@@ -9,3 +9,5 @@ Each folder contains a small project made with HTML, CSS, and JavaScript.
 🚀 Projects Included
 
 => 🎮 Tic Tac Toe
+=> 🎮 Rock Paper Scissors
+=> Currency converter
