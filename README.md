@@ -2,7 +2,7 @@
 
 🧩 JS Mini Projects
 
-     A collection of beginner-friendly JavaScript projects I built while learning JS .
+    THis is a collection of beginner-friendly JavaScript projects I built while learning html css and JS .
 
 Each folder contains a small project made with HTML, CSS, and JavaScript.
 
